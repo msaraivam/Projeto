@@ -1,0 +1,1 @@
+Feito em placa arduino uno para monitoramento de sala fria de servidores
